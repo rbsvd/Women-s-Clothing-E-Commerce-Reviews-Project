@@ -71,8 +71,8 @@ To ensure the project runs smoothly, please follow the steps below to set up the
 ### HTML Report
 The detailed analysis can be viewed by downloading or viewing the raw HTML report:
 
-- [View Raw HTML Report](#)
-- View the code in Python file format
+- [View Raw HTML Report](Women's Clothing E-Commerce Reviews Project.html)
+- [View the code in Python file format](https://drive.google.com/file/d/1h83wJBLUbjYbjGQLqKuljRf4Zrvk9wSa/view?usp=drive_link)
 
 *Note: The file is too large to be rendered directly on GitHub, but you can download and open it in your browser.*
 
