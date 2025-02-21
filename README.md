@@ -75,5 +75,3 @@ The detailed analysis can be viewed by downloading or viewing the raw HTML repor
 - [View the code in Python file format](https://drive.google.com/file/d/1h83wJBLUbjYbjGQLqKuljRf4Zrvk9wSa/view?usp=drive_link)
 
 *Note: The file is too large to be rendered directly on GitHub, but you can download and open it in your browser.*
-
-Feel free to customize this outline to fit your project's specific needs!
